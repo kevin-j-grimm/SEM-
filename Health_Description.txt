@@ -1,0 +1,6 @@
+The data contain the following variables organized by city
+Death_Rate = death rate per 1000 residents
+Doctors = doctor availability per 100,000 residents
+Hospitals = hospital availability per 100,000 residents
+Income = annual per capita income in thousands of dollars
+Pop_Density = population density people per square mile
